@@ -10,7 +10,7 @@ Provide working source code that will:
     * Calculate Volume Weighted Stock Price based on trades in past 15 minutes
 * Calculate the GBCE All Share Index using the geometric mean of prices for all stocks traded price
 
-##Requirements
+##Restrictions
 * Written in one of these languages: _Java_, C#, C++, Python
 * No database or GUI is required, all data need only be held in memory
 * No prior knowledge of stock markets or trading is required – all formulas are provided below.
