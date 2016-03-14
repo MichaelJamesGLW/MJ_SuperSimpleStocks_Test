@@ -15,7 +15,8 @@ Provide working source code that will:
 * No database or GUI is required, all data need only be held in memory
 * No prior knowledge of stock markets or trading is required – all formulas are provided below.
 
-##ProjectThis project was coded in Java using Eclipse Mars, with the M2E Maven extension
+##Project
+This project was coded in Java using Eclipse Mars, with the M2E Maven extension
 ###Unit tests
 * mvn test -> to execute the unit tests.
 
