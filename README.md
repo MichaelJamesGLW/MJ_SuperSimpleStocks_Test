@@ -22,6 +22,7 @@ This project was coded in Java using Eclipse Mars, with the M2E Maven extension
 
 ###Main application
 * _java -jar target/SuperSimpleStocks-0.0.1-SNAPSHOT.jar_
+* Output is written to console, and log file _target/log/SuperSimpleStocks.log_
 
 ##Classes
 * com.jpm.test.SuperSimpleStocks.Stock - Stock operations
