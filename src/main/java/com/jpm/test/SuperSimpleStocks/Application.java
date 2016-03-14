@@ -37,38 +37,47 @@ public class Application
         try {
             ApplicationContext context = 
                     new AnnotationConfigApplicationContext(Application.class);
+        	log.info("START SUPER SIMPLE STOCKS DEMO =================");
+        	log.info( "\n" );
             
             @SuppressWarnings("unchecked")
     		Map<String, Stock> stockData = context.getBean("stockData", Map.class);
             for (Stock stock: stockData.values()) {
-            	log.debug( stock.getCode() + "- Dividend: " + stock.dividend(stock.getPrice()));
-            	log.debug( stock.getCode() + "- P/E Ratio: " + stock.PERatio(stock.getPrice()));
             	for (int i=rangeMin; i <= rangeMax; i++) {
             		Integer quantity = MakeRandomInteger(rangeMin, rangeMax);
-            		double price = MakeRandomDouble(rangeMin, rangeMax);
+            		Double price = MakeRandomDouble(rangeMin, rangeMax);
             		stock.buy(quantity, price);
-            		log.debug( stock.getCode() + "- Bought " + i + " shares at #" + price);
+            		log.info( stock.getCode() + ": BOUGHT " + quantity + " shares at £" + price);
             		quantity = MakeRandomInteger(rangeMin, rangeMax);
             		price = MakeRandomDouble(rangeMin, rangeMax);
-            		stock.sell(i, price);
-            		log.debug( stock.getCode() + "- Sold " + i + " shares at #" + price);
+            		stock.sell(quantity, price);
+            		log.info( stock.getCode() + ": SOLD   " + quantity + " shares at £" + price);
             		Thread.sleep(1000);
             	}
-            	log.debug( stock.getCode() + "- Price: £" + stock.getPrice());
-            	log.debug( stock.getCode() + "- Volume Weighted Stock Price: £" + stock.getVolumeWeightedStockPrice());
+            	log.info( "\n" );
+            	log.info( "Final calculations for " + stock.getCode() + ":");
+            	log.info( stock.getCode() + "- Dividend: " + stock.dividend(stock.getPrice()));
+            	log.info( stock.getCode() + "- P/E Ratio: " + stock.PERatio(stock.getPrice()));
+            	log.info( stock.getCode() + "- Price: £" + stock.getPrice());
+            	log.info( stock.getCode() + "- Volume Weighted Stock Price: £" + stock.getVolumeWeightedStockPrice());
+            	log.info( "=======================");
+            	log.info( "\n" );
             }
-            log.debug( "GBCE All Share Index: " + Stock.getGBCEallShareIndex(stockData));
+            log.info( "GBCE All Share Index: " + Stock.getGBCEallShareIndex(stockData));
+        	log.info( "\n" );
+        	log.info( "=======================");
+        	log.info( "\n" );
+        	log.info( "End of demo.");
 		} catch (Exception e) {
 			log.error(e.getMessage(), e);
 		}
     }
     
-    private static double MakeRandomDouble(Integer min, Integer max) {
+    private static Double MakeRandomDouble(Integer min, Integer max) {
     	Random r = new Random();
     	return min + (max - min) * r.nextDouble();
     }
     private static Integer MakeRandomInteger(Integer min, Integer max) {
-    	Random r = new Random();
-    	return min + (max - min) * r.nextInt();
+    	return MakeRandomDouble(min, max).intValue();
     }
 }

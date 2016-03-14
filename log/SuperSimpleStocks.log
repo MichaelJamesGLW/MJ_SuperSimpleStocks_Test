@@ -1,0 +1,337 @@
+2016-03-14 12:57:54,444 [main] INFO  AnnotationConfigApplicationContext:573 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6325a3ee: startup date [Mon Mar 14 12:57:54 GMT 2016]; root of context hierarchy
+2016-03-14 12:57:54,614 [main] INFO  Application:40 - START SUPER SIMPLE STOCKS DEMO =================
+2016-03-14 12:57:54,614 [main] INFO  Application:41 - 
+
+2016-03-14 12:57:54,616 [main] INFO  Application:50 - GOOG: BOUGHT 1 shares at £9.905298449219027
+2016-03-14 12:57:54,616 [main] INFO  Application:54 - GOOG: SOLD   8 shares at £3.2979852674946653
+2016-03-14 12:57:55,616 [main] INFO  Application:50 - GOOG: BOUGHT 9 shares at £2.6407878864187757
+2016-03-14 12:57:55,616 [main] INFO  Application:54 - GOOG: SOLD   3 shares at £6.04125004744854
+2016-03-14 12:57:56,617 [main] INFO  Application:50 - GOOG: BOUGHT 6 shares at £4.799110449506292
+2016-03-14 12:57:56,618 [main] INFO  Application:54 - GOOG: SOLD   5 shares at £7.686882186924983
+2016-03-14 12:57:57,618 [main] INFO  Application:50 - GOOG: BOUGHT 5 shares at £5.547140093405447
+2016-03-14 12:57:57,619 [main] INFO  Application:54 - GOOG: SOLD   7 shares at £4.869551959725933
+2016-03-14 12:57:58,619 [main] INFO  Application:50 - GOOG: BOUGHT 1 shares at £2.251209236701385
+2016-03-14 12:57:58,620 [main] INFO  Application:54 - GOOG: SOLD   7 shares at £4.94957396461675
+2016-03-14 12:57:59,620 [main] INFO  Application:50 - GOOG: BOUGHT 6 shares at £1.6074390089378432
+2016-03-14 12:57:59,620 [main] INFO  Application:54 - GOOG: SOLD   7 shares at £4.97306425807337
+2016-03-14 12:58:00,622 [main] INFO  Application:50 - GOOG: BOUGHT 2 shares at £2.052567104034437
+2016-03-14 12:58:00,622 [main] INFO  Application:54 - GOOG: SOLD   6 shares at £5.656542284313945
+2016-03-14 12:58:01,623 [main] INFO  Application:50 - GOOG: BOUGHT 2 shares at £9.178345403561146
+2016-03-14 12:58:01,624 [main] INFO  Application:54 - GOOG: SOLD   7 shares at £4.485995324621792
+2016-03-14 12:58:02,624 [main] INFO  Application:50 - GOOG: BOUGHT 8 shares at £3.9311719253750104
+2016-03-14 12:58:02,624 [main] INFO  Application:54 - GOOG: SOLD   3 shares at £2.5257045799731688
+2016-03-14 12:58:03,625 [main] INFO  Application:50 - GOOG: BOUGHT 1 shares at £6.087650882176119
+2016-03-14 12:58:03,625 [main] INFO  Application:54 - GOOG: SOLD   9 shares at £2.4669061449335197
+2016-03-14 12:58:04,626 [main] INFO  Application:57 - 
+
+2016-03-14 12:58:04,626 [main] INFO  Application:58 - Final calculations for GOOG:
+2016-03-14 12:58:04,628 [main] INFO  Application:59 - GOOG- Dividend: 17.83610620548588
+2016-03-14 12:58:04,629 [main] INFO  Application:60 - GOOG- P/E Ratio: 0.30836326811668996
+2016-03-14 12:58:04,629 [main] INFO  Application:61 - GOOG- Price: £2.4669061449335197
+2016-03-14 12:58:04,632 [main] INFO  Application:62 - GOOG- Volume Weighted Stock Price: £4.65942134303399
+2016-03-14 12:58:04,632 [main] INFO  Application:63 - =======================
+2016-03-14 12:58:04,633 [main] INFO  Application:64 - 
+
+2016-03-14 12:58:04,633 [main] INFO  Application:50 - ARM: BOUGHT 9 shares at £7.266890193493914
+2016-03-14 12:58:04,634 [main] INFO  Application:54 - ARM: SOLD   2 shares at £7.856848641904757
+2016-03-14 12:58:05,634 [main] INFO  Application:50 - ARM: BOUGHT 6 shares at £8.429188249018022
+2016-03-14 12:58:05,634 [main] INFO  Application:54 - ARM: SOLD   7 shares at £5.266488483869745
+2016-03-14 12:58:06,635 [main] INFO  Application:50 - ARM: BOUGHT 1 shares at £5.634400017924403
+2016-03-14 12:58:06,636 [main] INFO  Application:54 - ARM: SOLD   8 shares at £3.0526790626161966
+2016-03-14 12:58:07,636 [main] INFO  Application:50 - ARM: BOUGHT 4 shares at £5.448547694431547
+2016-03-14 12:58:07,636 [main] INFO  Application:54 - ARM: SOLD   5 shares at £6.119443756243257
+2016-03-14 12:58:08,636 [main] INFO  Application:50 - ARM: BOUGHT 5 shares at £8.376708964923992
+2016-03-14 12:58:08,637 [main] INFO  Application:54 - ARM: SOLD   1 shares at £3.0907511194138237
+2016-03-14 12:58:09,637 [main] INFO  Application:50 - ARM: BOUGHT 1 shares at £8.812101791703723
+2016-03-14 12:58:09,638 [main] INFO  Application:54 - ARM: SOLD   2 shares at £2.0523572035432767
+2016-03-14 12:58:10,639 [main] INFO  Application:50 - ARM: BOUGHT 1 shares at £5.648016949020638
+2016-03-14 12:58:10,640 [main] INFO  Application:54 - ARM: SOLD   2 shares at £1.1059092175180971
+2016-03-14 12:58:11,640 [main] INFO  Application:50 - ARM: BOUGHT 3 shares at £1.6784268567427607
+2016-03-14 12:58:11,640 [main] INFO  Application:54 - ARM: SOLD   3 shares at £6.43092752431512
+2016-03-14 12:58:12,641 [main] INFO  Application:50 - ARM: BOUGHT 7 shares at £4.9619252120972455
+2016-03-14 12:58:12,642 [main] INFO  Application:54 - ARM: SOLD   2 shares at £3.112881380674027
+2016-03-14 12:58:13,642 [main] INFO  Application:50 - ARM: BOUGHT 9 shares at £3.940311021877046
+2016-03-14 12:58:13,643 [main] INFO  Application:54 - ARM: SOLD   6 shares at £2.8745239490857846
+2016-03-14 12:58:14,643 [main] INFO  Application:57 - 
+
+2016-03-14 12:58:14,643 [main] INFO  Application:58 - Final calculations for ARM:
+2016-03-14 12:58:14,644 [main] INFO  Application:59 - ARM- Dividend: 4.8703716677860935
+2016-03-14 12:58:14,645 [main] INFO  Application:60 - ARM- P/E Ratio: 0.20532313922041318
+2016-03-14 12:58:14,645 [main] INFO  Application:61 - ARM- Price: £2.8745239490857846
+2016-03-14 12:58:14,646 [main] INFO  Application:62 - ARM- Volume Weighted Stock Price: £5.2130148022052145
+2016-03-14 12:58:14,646 [main] INFO  Application:63 - =======================
+2016-03-14 12:58:14,647 [main] INFO  Application:64 - 
+
+2016-03-14 12:58:14,647 [main] INFO  Application:50 - AAPL: BOUGHT 2 shares at £3.638726912065149
+2016-03-14 12:58:14,648 [main] INFO  Application:54 - AAPL: SOLD   6 shares at £2.011345172994983
+2016-03-14 12:58:15,648 [main] INFO  Application:50 - AAPL: BOUGHT 2 shares at £6.006609429157867
+2016-03-14 12:58:15,649 [main] INFO  Application:54 - AAPL: SOLD   9 shares at £4.9527660869077295
+2016-03-14 12:58:16,649 [main] INFO  Application:50 - AAPL: BOUGHT 3 shares at £2.4743808008507644
+2016-03-14 12:58:16,650 [main] INFO  Application:54 - AAPL: SOLD   8 shares at £5.7207662538542445
+2016-03-14 12:58:17,650 [main] INFO  Application:50 - AAPL: BOUGHT 1 shares at £4.44378019891471
+2016-03-14 12:58:17,650 [main] INFO  Application:54 - AAPL: SOLD   2 shares at £7.385250720625047
+2016-03-14 12:58:18,651 [main] INFO  Application:50 - AAPL: BOUGHT 6 shares at £9.761582678926489
+2016-03-14 12:58:18,651 [main] INFO  Application:54 - AAPL: SOLD   5 shares at £6.86479590385366
+2016-03-14 12:58:19,652 [main] INFO  Application:50 - AAPL: BOUGHT 9 shares at £1.5640890297419614
+2016-03-14 12:58:19,652 [main] INFO  Application:54 - AAPL: SOLD   8 shares at £8.920390470948597
+2016-03-14 12:58:20,655 [main] INFO  Application:50 - AAPL: BOUGHT 4 shares at £5.75188536377493
+2016-03-14 12:58:20,656 [main] INFO  Application:54 - AAPL: SOLD   6 shares at £7.124940284543627
+2016-03-14 12:58:21,657 [main] INFO  Application:50 - AAPL: BOUGHT 3 shares at £4.182457386767883
+2016-03-14 12:58:21,657 [main] INFO  Application:54 - AAPL: SOLD   2 shares at £6.353686607693861
+2016-03-14 12:58:22,658 [main] INFO  Application:50 - AAPL: BOUGHT 6 shares at £7.255684472316962
+2016-03-14 12:58:22,658 [main] INFO  Application:54 - AAPL: SOLD   5 shares at £8.877569197809324
+2016-03-14 12:58:23,659 [main] INFO  Application:50 - AAPL: BOUGHT 8 shares at £9.61639612277549
+2016-03-14 12:58:23,660 [main] INFO  Application:54 - AAPL: SOLD   7 shares at £4.363923343995512
+2016-03-14 12:58:24,660 [main] INFO  Application:57 - 
+
+2016-03-14 12:58:24,660 [main] INFO  Application:58 - Final calculations for AAPL:
+2016-03-14 12:58:24,661 [main] INFO  Application:59 - AAPL- Dividend: 3.5518497412029566
+2016-03-14 12:58:24,661 [main] INFO  Application:60 - AAPL- P/E Ratio: 0.2815434415480975
+2016-03-14 12:58:24,662 [main] INFO  Application:61 - AAPL- Price: £4.363923343995512
+2016-03-14 12:58:24,663 [main] INFO  Application:62 - AAPL- Volume Weighted Stock Price: £5.840295383171643
+2016-03-14 12:58:24,663 [main] INFO  Application:63 - =======================
+2016-03-14 12:58:24,664 [main] INFO  Application:64 - 
+
+2016-03-14 12:58:24,664 [main] INFO  Application:50 - YHOO: BOUGHT 3 shares at £9.835330962325967
+2016-03-14 12:58:24,664 [main] INFO  Application:54 - YHOO: SOLD   3 shares at £6.225602170232291
+2016-03-14 12:58:25,665 [main] INFO  Application:50 - YHOO: BOUGHT 3 shares at £2.8351026735409923
+2016-03-14 12:58:25,666 [main] INFO  Application:54 - YHOO: SOLD   9 shares at £7.854616381310798
+2016-03-14 12:58:26,666 [main] INFO  Application:50 - YHOO: BOUGHT 1 shares at £3.488398272965303
+2016-03-14 12:58:26,666 [main] INFO  Application:54 - YHOO: SOLD   5 shares at £4.995214218119506
+2016-03-14 12:58:27,667 [main] INFO  Application:50 - YHOO: BOUGHT 8 shares at £1.6230646870254748
+2016-03-14 12:58:27,667 [main] INFO  Application:54 - YHOO: SOLD   1 shares at £3.183433803135506
+2016-03-14 12:58:28,668 [main] INFO  Application:50 - YHOO: BOUGHT 8 shares at £5.504843289020684
+2016-03-14 12:58:28,668 [main] INFO  Application:54 - YHOO: SOLD   6 shares at £6.408339192630654
+2016-03-14 12:58:29,669 [main] INFO  Application:50 - YHOO: BOUGHT 6 shares at £2.386574986668369
+2016-03-14 12:58:29,669 [main] INFO  Application:54 - YHOO: SOLD   5 shares at £1.2284364806713204
+2016-03-14 12:58:30,671 [main] INFO  Application:50 - YHOO: BOUGHT 7 shares at £7.568161792189477
+2016-03-14 12:58:30,671 [main] INFO  Application:54 - YHOO: SOLD   4 shares at £3.6772852679084878
+2016-03-14 12:58:31,672 [main] INFO  Application:50 - YHOO: BOUGHT 3 shares at £4.661164217732519
+2016-03-14 12:58:31,673 [main] INFO  Application:54 - YHOO: SOLD   4 shares at £1.4052213033512557
+2016-03-14 12:58:32,673 [main] INFO  Application:50 - YHOO: BOUGHT 2 shares at £5.0809989223984955
+2016-03-14 12:58:32,673 [main] INFO  Application:54 - YHOO: SOLD   7 shares at £3.3100314190652758
+2016-03-14 12:58:33,674 [main] INFO  Application:50 - YHOO: BOUGHT 7 shares at £7.591819423057361
+2016-03-14 12:58:33,674 [main] INFO  Application:54 - YHOO: SOLD   4 shares at £4.711602572062953
+2016-03-14 12:58:34,675 [main] INFO  Application:57 - 
+
+2016-03-14 12:58:34,675 [main] INFO  Application:58 - Final calculations for YHOO:
+2016-03-14 12:58:34,676 [main] INFO  Application:59 - YHOO- Dividend: 0.31836301493129376
+2016-03-14 12:58:34,676 [main] INFO  Application:60 - YHOO- P/E Ratio: 3.1410683813753018
+2016-03-14 12:58:34,677 [main] INFO  Application:61 - YHOO- Price: £4.711602572062953
+2016-03-14 12:58:34,678 [main] INFO  Application:62 - YHOO- Volume Weighted Stock Price: £4.676390268794068
+2016-03-14 12:58:34,678 [main] INFO  Application:63 - =======================
+2016-03-14 12:58:34,679 [main] INFO  Application:64 - 
+
+2016-03-14 12:58:34,679 [main] INFO  Application:50 - JPM: BOUGHT 4 shares at £7.09971312819507
+2016-03-14 12:58:34,679 [main] INFO  Application:54 - JPM: SOLD   8 shares at £4.267267541982506
+2016-03-14 12:58:35,680 [main] INFO  Application:50 - JPM: BOUGHT 4 shares at £2.994704271512293
+2016-03-14 12:58:35,680 [main] INFO  Application:54 - JPM: SOLD   7 shares at £3.0813044461530428
+2016-03-14 12:58:36,680 [main] INFO  Application:50 - JPM: BOUGHT 1 shares at £5.089676833206897
+2016-03-14 12:58:36,681 [main] INFO  Application:54 - JPM: SOLD   7 shares at £8.887613316175482
+2016-03-14 12:58:37,681 [main] INFO  Application:50 - JPM: BOUGHT 8 shares at £6.090829524707893
+2016-03-14 12:58:37,681 [main] INFO  Application:54 - JPM: SOLD   5 shares at £6.794124121157326
+2016-03-14 12:58:38,682 [main] INFO  Application:50 - JPM: BOUGHT 7 shares at £6.831788428430765
+2016-03-14 12:58:38,682 [main] INFO  Application:54 - JPM: SOLD   3 shares at £3.319477827085495
+2016-03-14 12:58:39,683 [main] INFO  Application:50 - JPM: BOUGHT 7 shares at £8.911494550194528
+2016-03-14 12:58:39,683 [main] INFO  Application:54 - JPM: SOLD   3 shares at £5.074354005987437
+2016-03-14 12:58:40,685 [main] INFO  Application:50 - JPM: BOUGHT 3 shares at £3.349079696660689
+2016-03-14 12:58:40,686 [main] INFO  Application:54 - JPM: SOLD   1 shares at £6.9580026864889195
+2016-03-14 12:58:41,686 [main] INFO  Application:50 - JPM: BOUGHT 9 shares at £9.411731671025715
+2016-03-14 12:58:41,686 [main] INFO  Application:54 - JPM: SOLD   3 shares at £6.203898343241503
+2016-03-14 12:58:42,687 [main] INFO  Application:50 - JPM: BOUGHT 8 shares at £4.820313589584828
+2016-03-14 12:58:42,688 [main] INFO  Application:54 - JPM: SOLD   8 shares at £8.428214263740124
+2016-03-14 12:58:43,688 [main] INFO  Application:50 - JPM: BOUGHT 3 shares at £2.664701129407499
+2016-03-14 12:58:43,689 [main] INFO  Application:54 - JPM: SOLD   2 shares at £1.4307314101769442
+2016-03-14 12:58:44,689 [main] INFO  Application:57 - 
+
+2016-03-14 12:58:44,689 [main] INFO  Application:58 - Final calculations for JPM:
+2016-03-14 12:58:44,690 [main] INFO  Application:59 - JPM- Dividend: 13.978864137418023
+2016-03-14 12:58:44,690 [main] INFO  Application:60 - JPM- P/E Ratio: 0.17884142627211802
+2016-03-14 12:58:44,691 [main] INFO  Application:61 - JPM- Price: £1.4307314101769442
+2016-03-14 12:58:44,692 [main] INFO  Application:62 - JPM- Volume Weighted Stock Price: £5.659535890272711
+2016-03-14 12:58:44,692 [main] INFO  Application:63 - =======================
+2016-03-14 12:58:44,692 [main] INFO  Application:64 - 
+
+2016-03-14 12:58:44,693 [main] INFO  Application:66 - GBCE All Share Index: 1.7377735364542974
+2016-03-14 12:58:44,694 [main] INFO  Application:67 - 
+
+2016-03-14 12:58:44,694 [main] INFO  Application:68 - =======================
+2016-03-14 12:58:44,694 [main] INFO  Application:69 - 
+
+2016-03-14 12:58:44,695 [main] INFO  Application:70 - End of demo.
+2016-03-14 13:04:15,849 [main] INFO  AnnotationConfigApplicationContext:573 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6325a3ee: startup date [Mon Mar 14 13:04:15 GMT 2016]; root of context hierarchy
+2016-03-14 13:04:16,020 [main] INFO  Application:40 - START SUPER SIMPLE STOCKS DEMO =================
+2016-03-14 13:04:16,020 [main] INFO  Application:41 - 
+
+2016-03-14 13:04:16,022 [main] ERROR Application:72 - Conversion = s, Flags = 0
+java.util.FormatFlagsConversionMismatchException: Conversion = s, Flags = 0
+	at java.util.Formatter$FormatSpecifier.failMismatch(Unknown Source) ~[?:1.8.0_73]
+	at java.util.Formatter$FormatSpecifier.checkBadFlags(Unknown Source) ~[?:1.8.0_73]
+	at java.util.Formatter$FormatSpecifier.checkGeneral(Unknown Source) ~[?:1.8.0_73]
+	at java.util.Formatter$FormatSpecifier.<init>(Unknown Source) ~[?:1.8.0_73]
+	at java.util.Formatter.parse(Unknown Source) ~[?:1.8.0_73]
+	at java.util.Formatter.format(Unknown Source) ~[?:1.8.0_73]
+	at java.util.Formatter.format(Unknown Source) ~[?:1.8.0_73]
+	at java.lang.String.format(Unknown Source) ~[?:1.8.0_73]
+	at com.jpm.test.SuperSimpleStocks.Application.main(Application.java:50) [SuperSimpleStocks-0.0.1-SNAPSHOT.jar:?]
+2016-03-14 13:05:56,018 [main] INFO  AnnotationConfigApplicationContext:573 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6325a3ee: startup date [Mon Mar 14 13:05:56 GMT 2016]; root of context hierarchy
+2016-03-14 13:05:56,189 [main] INFO  Application:40 - START SUPER SIMPLE STOCKS DEMO =================
+2016-03-14 13:05:56,190 [main] INFO  Application:41 - 
+
+2016-03-14 13:05:56,191 [main] INFO  Application:50 - GOOG%0s: BOUGHT 6 shares at £4.2453923284946615
+2016-03-14 13:05:56,191 [main] INFO  Application:54 - GOOG: SOLD   5 shares at £9.290537438892898
+2016-03-14 13:05:57,192 [main] INFO  Application:50 - GOOG%0s: BOUGHT 5 shares at £6.925373483707058
+2016-03-14 13:05:57,192 [main] INFO  Application:54 - GOOG: SOLD   7 shares at £2.8279886016720974
+2016-03-14 13:05:58,193 [main] INFO  Application:50 - GOOG%0s: BOUGHT 2 shares at £2.2363667232174818
+2016-03-14 13:05:58,193 [main] INFO  Application:54 - GOOG: SOLD   4 shares at £3.9495706144159737
+2016-03-14 13:05:59,194 [main] INFO  Application:50 - GOOG%0s: BOUGHT 3 shares at £8.375732393972172
+2016-03-14 13:05:59,194 [main] INFO  Application:54 - GOOG: SOLD   9 shares at £5.2821308881226585
+2016-03-14 13:06:00,195 [main] INFO  Application:50 - GOOG%0s: BOUGHT 8 shares at £1.0081330625003346
+2016-03-14 13:06:00,195 [main] INFO  Application:54 - GOOG: SOLD   8 shares at £8.960188396831963
+2016-03-14 13:06:01,196 [main] INFO  Application:50 - GOOG%0s: BOUGHT 6 shares at £1.0793968921333625
+2016-03-14 13:06:01,196 [main] INFO  Application:54 - GOOG: SOLD   2 shares at £6.008397929757399
+2016-03-14 13:06:02,197 [main] INFO  Application:50 - GOOG%0s: BOUGHT 4 shares at £7.893042773159804
+2016-03-14 13:06:02,198 [main] INFO  Application:54 - GOOG: SOLD   6 shares at £2.974273875536492
+2016-03-14 13:06:03,198 [main] INFO  Application:50 - GOOG%0s: BOUGHT 1 shares at £2.79008217997123
+2016-03-14 13:06:03,198 [main] INFO  Application:54 - GOOG: SOLD   7 shares at £5.577320863112527
+2016-03-14 13:06:04,199 [main] INFO  Application:50 - GOOG%0s: BOUGHT 6 shares at £9.361149236405245
+2016-03-14 13:06:04,199 [main] INFO  Application:54 - GOOG: SOLD   4 shares at £9.375518421312588
+2016-03-14 13:06:05,200 [main] INFO  Application:50 - GOOG%0s: BOUGHT 3 shares at £6.720673833369189
+2016-03-14 13:06:05,200 [main] INFO  Application:54 - GOOG: SOLD   4 shares at £6.212168954907771
+2016-03-14 13:06:06,201 [main] INFO  Application:57 - 
+
+2016-03-14 13:06:06,201 [main] INFO  Application:58 - Final calculations for GOOG:
+2016-03-14 13:06:06,202 [main] INFO  Application:59 - GOOG- Dividend: 7.082872394389545
+2016-03-14 13:06:06,202 [main] INFO  Application:60 - GOOG- P/E Ratio: 0.7765211193634713
+2016-03-14 13:06:06,203 [main] INFO  Application:61 - GOOG- Price: £6.212168954907771
+2016-03-14 13:06:06,204 [main] INFO  Application:62 - GOOG- Volume Weighted Stock Price: £5.937893030196349
+2016-03-14 13:06:06,205 [main] INFO  Application:63 - =======================
+2016-03-14 13:06:06,205 [main] INFO  Application:64 - 
+
+2016-03-14 13:06:06,205 [main] INFO  Application:50 - ARM%0s: BOUGHT 5 shares at £2.4878430068538218
+2016-03-14 13:06:06,205 [main] INFO  Application:54 - ARM: SOLD   6 shares at £4.031114181492589
+2016-03-14 13:06:07,206 [main] INFO  Application:50 - ARM%0s: BOUGHT 3 shares at £9.422285041244239
+2016-03-14 13:06:07,206 [main] INFO  Application:54 - ARM: SOLD   4 shares at £6.396204477396032
+2016-03-14 13:06:08,207 [main] INFO  Application:50 - ARM%0s: BOUGHT 5 shares at £3.7795977923454194
+2016-03-14 13:06:08,207 [main] INFO  Application:54 - ARM: SOLD   2 shares at £2.3722881649473866
+2016-03-14 13:06:09,208 [main] INFO  Application:50 - ARM%0s: BOUGHT 6 shares at £5.918318695710337
+2016-03-14 13:06:09,208 [main] INFO  Application:54 - ARM: SOLD   9 shares at £3.5819144522629767
+2016-03-14 13:06:10,209 [main] INFO  Application:50 - ARM%0s: BOUGHT 7 shares at £7.050619348734129
+2016-03-14 13:06:10,209 [main] INFO  Application:54 - ARM: SOLD   5 shares at £3.874860304603158
+2016-03-14 13:06:11,210 [main] INFO  Application:50 - ARM%0s: BOUGHT 9 shares at £5.208372127346802
+2016-03-14 13:06:11,210 [main] INFO  Application:54 - ARM: SOLD   2 shares at £7.3512238751692935
+2016-03-14 13:06:12,211 [main] INFO  Application:50 - ARM%0s: BOUGHT 7 shares at £3.5287713595240513
+2016-03-14 13:06:12,211 [main] INFO  Application:54 - ARM: SOLD   2 shares at £4.266956965442507
+2016-03-14 13:06:13,212 [main] INFO  Application:50 - ARM%0s: BOUGHT 9 shares at £1.1511604282913894
+2016-03-14 13:06:13,212 [main] INFO  Application:54 - ARM: SOLD   7 shares at £1.3964077706620799
+2016-03-14 13:06:14,213 [main] INFO  Application:50 - ARM%0s: BOUGHT 9 shares at £7.764461597872379
+2016-03-14 13:06:14,213 [main] INFO  Application:54 - ARM: SOLD   6 shares at £1.7853364792758177
+2016-03-14 13:06:15,214 [main] INFO  Application:50 - ARM%0s: BOUGHT 4 shares at £7.252233886281403
+2016-03-14 13:06:15,214 [main] INFO  Application:54 - ARM: SOLD   2 shares at £5.039700853628238
+2016-03-14 13:06:16,215 [main] INFO  Application:57 - 
+
+2016-03-14 13:06:16,215 [main] INFO  Application:58 - Final calculations for ARM:
+2016-03-14 13:06:16,216 [main] INFO  Application:59 - ARM- Dividend: 2.777942661005556
+2016-03-14 13:06:16,217 [main] INFO  Application:60 - ARM- P/E Ratio: 0.359978632402017
+2016-03-14 13:06:16,217 [main] INFO  Application:61 - ARM- Price: £5.039700853628238
+2016-03-14 13:06:16,218 [main] INFO  Application:62 - ARM- Volume Weighted Stock Price: £3.554005501790812
+2016-03-14 13:06:16,218 [main] INFO  Application:63 - =======================
+2016-03-14 13:06:16,219 [main] INFO  Application:64 - 
+
+2016-03-14 13:06:16,219 [main] INFO  Application:50 - AAPL%0s: BOUGHT 9 shares at £1.2683728552182663
+2016-03-14 13:06:16,219 [main] INFO  Application:54 - AAPL: SOLD   8 shares at £4.608544159751174
+2016-03-14 13:06:17,220 [main] INFO  Application:50 - AAPL%0s: BOUGHT 1 shares at £6.4290735764930815
+2016-03-14 13:06:17,220 [main] INFO  Application:54 - AAPL: SOLD   6 shares at £8.655275556259946
+2016-03-14 13:06:18,221 [main] INFO  Application:50 - AAPL%0s: BOUGHT 1 shares at £3.0066364955498646
+2016-03-14 13:06:18,222 [main] INFO  Application:54 - AAPL: SOLD   5 shares at £4.880411983826491
+2016-03-14 13:06:19,222 [main] INFO  Application:50 - AAPL%0s: BOUGHT 2 shares at £6.382426153460751
+2016-03-14 13:06:19,222 [main] INFO  Application:54 - AAPL: SOLD   7 shares at £3.6631867514780336
+2016-03-14 13:06:20,223 [main] INFO  Application:50 - AAPL%0s: BOUGHT 3 shares at £3.2081732529933924
+2016-03-14 13:06:20,223 [main] INFO  Application:54 - AAPL: SOLD   4 shares at £4.142274550578615
+2016-03-14 13:06:21,224 [main] INFO  Application:50 - AAPL%0s: BOUGHT 9 shares at £8.33424115546864
+2016-03-14 13:06:21,224 [main] INFO  Application:54 - AAPL: SOLD   5 shares at £8.010318740965593
+2016-03-14 13:06:22,226 [main] INFO  Application:50 - AAPL%0s: BOUGHT 9 shares at £5.036107189881866
+2016-03-14 13:06:22,227 [main] INFO  Application:54 - AAPL: SOLD   1 shares at £6.235110582890791
+2016-03-14 13:06:23,228 [main] INFO  Application:50 - AAPL%0s: BOUGHT 2 shares at £1.8866073841031867
+2016-03-14 13:06:23,228 [main] INFO  Application:54 - AAPL: SOLD   2 shares at £4.033728149389078
+2016-03-14 13:06:24,228 [main] INFO  Application:50 - AAPL%0s: BOUGHT 7 shares at £7.417424274608957
+2016-03-14 13:06:24,228 [main] INFO  Application:54 - AAPL: SOLD   8 shares at £5.6140605771450565
+2016-03-14 13:06:25,228 [main] INFO  Application:50 - AAPL%0s: BOUGHT 4 shares at £7.9027631557194855
+2016-03-14 13:06:25,228 [main] INFO  Application:54 - AAPL: SOLD   5 shares at £7.574560663846185
+2016-03-14 13:06:26,229 [main] INFO  Application:57 - 
+
+2016-03-14 13:06:26,229 [main] INFO  Application:58 - Final calculations for AAPL:
+2016-03-14 13:06:26,230 [main] INFO  Application:59 - AAPL- Dividend: 2.046323303473216
+2016-03-14 13:06:26,230 [main] INFO  Application:60 - AAPL- P/E Ratio: 0.4886813331513668
+2016-03-14 13:06:26,231 [main] INFO  Application:61 - AAPL- Price: £7.574560663846185
+2016-03-14 13:06:26,232 [main] INFO  Application:62 - AAPL- Volume Weighted Stock Price: £5.631298087153122
+2016-03-14 13:06:26,232 [main] INFO  Application:63 - =======================
+2016-03-14 13:06:26,232 [main] INFO  Application:64 - 
+
+2016-03-14 13:06:26,233 [main] INFO  Application:50 - YHOO%0s: BOUGHT 4 shares at £5.521857502854186
+2016-03-14 13:06:26,233 [main] INFO  Application:54 - YHOO: SOLD   7 shares at £3.941404543046613
+2016-03-14 13:06:27,234 [main] INFO  Application:50 - YHOO%0s: BOUGHT 3 shares at £4.546182800282
+2016-03-14 13:06:27,234 [main] INFO  Application:54 - YHOO: SOLD   9 shares at £6.898116963303522
+2016-03-14 13:06:28,235 [main] INFO  Application:50 - YHOO%0s: BOUGHT 5 shares at £5.597591772802751
+2016-03-14 13:06:28,235 [main] INFO  Application:54 - YHOO: SOLD   4 shares at £1.7562648591136878
+2016-03-14 13:06:29,236 [main] INFO  Application:50 - YHOO%0s: BOUGHT 7 shares at £4.938324948709711
+2016-03-14 13:06:29,236 [main] INFO  Application:54 - YHOO: SOLD   1 shares at £1.1937185426233787
+2016-03-14 13:06:30,237 [main] INFO  Application:50 - YHOO%0s: BOUGHT 2 shares at £6.282596784823149
+2016-03-14 13:06:30,237 [main] INFO  Application:54 - YHOO: SOLD   5 shares at £1.074943585996677
+2016-03-14 13:06:31,238 [main] INFO  Application:50 - YHOO%0s: BOUGHT 6 shares at £8.09047594859624
+2016-03-14 13:06:31,238 [main] INFO  Application:54 - YHOO: SOLD   7 shares at £1.9230033332552494
+2016-03-14 13:06:32,239 [main] INFO  Application:50 - YHOO%0s: BOUGHT 1 shares at £5.834846094919851
+2016-03-14 13:06:32,239 [main] INFO  Application:54 - YHOO: SOLD   9 shares at £6.492630831073209
+2016-03-14 13:06:33,240 [main] INFO  Application:50 - YHOO%0s: BOUGHT 7 shares at £6.355494618315839
+2016-03-14 13:06:33,240 [main] INFO  Application:54 - YHOO: SOLD   5 shares at £8.371326727663815
+2016-03-14 13:06:34,241 [main] INFO  Application:50 - YHOO%0s: BOUGHT 5 shares at £2.4048763370776656
+2016-03-14 13:06:34,241 [main] INFO  Application:54 - YHOO: SOLD   6 shares at £4.297404665133209
+2016-03-14 13:06:35,242 [main] INFO  Application:50 - YHOO%0s: BOUGHT 6 shares at £5.072569051377892
+2016-03-14 13:06:35,242 [main] INFO  Application:54 - YHOO: SOLD   2 shares at £7.119295400569111
+2016-03-14 13:06:36,243 [main] INFO  Application:57 - 
+
+2016-03-14 13:06:36,243 [main] INFO  Application:58 - Final calculations for YHOO:
+2016-03-14 13:06:36,244 [main] INFO  Application:59 - YHOO- Dividend: 0.21069500780654377
+2016-03-14 13:06:36,244 [main] INFO  Application:60 - YHOO- P/E Ratio: 4.746196933712741
+2016-03-14 13:06:36,245 [main] INFO  Application:61 - YHOO- Price: £7.119295400569111
+2016-03-14 13:06:36,245 [main] INFO  Application:62 - YHOO- Volume Weighted Stock Price: £4.673467884051303
+2016-03-14 13:06:36,246 [main] INFO  Application:63 - =======================
+2016-03-14 13:06:36,246 [main] INFO  Application:64 - 
+
+2016-03-14 13:06:36,247 [main] INFO  Application:50 - JPM%0s: BOUGHT 4 shares at £4.003024941485895
+2016-03-14 13:06:36,247 [main] INFO  Application:54 - JPM: SOLD   4 shares at £2.9797297407208068
+2016-03-14 13:06:37,248 [main] INFO  Application:50 - JPM%0s: BOUGHT 4 shares at £6.191429331416021
+2016-03-14 13:06:37,248 [main] INFO  Application:54 - JPM: SOLD   3 shares at £9.260857843499915
+2016-03-14 13:06:38,249 [main] INFO  Application:50 - JPM%0s: BOUGHT 9 shares at £4.6708714159529565
+2016-03-14 13:06:38,249 [main] INFO  Application:54 - JPM: SOLD   2 shares at £7.607798107925078
+2016-03-14 13:06:39,250 [main] INFO  Application:50 - JPM%0s: BOUGHT 7 shares at £8.610940214121335
+2016-03-14 13:06:39,250 [main] INFO  Application:54 - JPM: SOLD   5 shares at £8.576372069116264
+2016-03-14 13:06:40,251 [main] INFO  Application:50 - JPM%0s: BOUGHT 5 shares at £1.3433713902157107
+2016-03-14 13:06:40,252 [main] INFO  Application:54 - JPM: SOLD   7 shares at £4.370430025598116
+2016-03-14 13:06:41,252 [main] INFO  Application:50 - JPM%0s: BOUGHT 5 shares at £3.28188731149816
+2016-03-14 13:06:41,252 [main] INFO  Application:54 - JPM: SOLD   8 shares at £9.646718154144398
+2016-03-14 13:06:42,253 [main] INFO  Application:50 - JPM%0s: BOUGHT 8 shares at £8.36300314391885
+2016-03-14 13:06:42,254 [main] INFO  Application:54 - JPM: SOLD   2 shares at £2.686165998638322
+2016-03-14 13:06:43,254 [main] INFO  Application:50 - JPM%0s: BOUGHT 8 shares at £6.356183927244828
+2016-03-14 13:06:43,254 [main] INFO  Application:54 - JPM: SOLD   9 shares at £4.087134075918912
+2016-03-14 13:06:44,254 [main] INFO  Application:50 - JPM%0s: BOUGHT 5 shares at £6.070526501244048
+2016-03-14 13:06:44,254 [main] INFO  Application:54 - JPM: SOLD   1 shares at £8.610227707883128
+2016-03-14 13:06:45,255 [main] INFO  Application:50 - JPM%0s: BOUGHT 2 shares at £9.549517385408647
+2016-03-14 13:06:45,255 [main] INFO  Application:54 - JPM: SOLD   1 shares at £6.352962893437375
+2016-03-14 13:06:46,256 [main] INFO  Application:57 - 
+
+2016-03-14 13:06:46,256 [main] INFO  Application:58 - Final calculations for JPM:
+2016-03-14 13:06:46,257 [main] INFO  Application:59 - JPM- Dividend: 3.1481373865192954
+2016-03-14 13:06:46,257 [main] INFO  Application:60 - JPM- P/E Ratio: 0.7941203616796719
+2016-03-14 13:06:46,258 [main] INFO  Application:61 - JPM- Price: £6.352962893437375
+2016-03-14 13:06:46,258 [main] INFO  Application:62 - JPM- Volume Weighted Stock Price: £6.114660288208239
+2016-03-14 13:06:46,259 [main] INFO  Application:63 - =======================
+2016-03-14 13:06:46,259 [main] INFO  Application:64 - 
+
+2016-03-14 13:06:46,260 [main] INFO  Application:66 - GBCE All Share Index: 2.0037197473017505
+2016-03-14 13:06:46,260 [main] INFO  Application:67 - 
+
+2016-03-14 13:06:46,260 [main] INFO  Application:68 - =======================
+2016-03-14 13:06:46,261 [main] INFO  Application:69 - 
+
+2016-03-14 13:06:46,261 [main] INFO  Application:70 - End of demo.

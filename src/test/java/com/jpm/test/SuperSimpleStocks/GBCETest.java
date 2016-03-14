@@ -1,11 +1,14 @@
 package com.jpm.test.SuperSimpleStocks;
 
 import static org.junit.Assert.*;
-
 import java.util.HashMap;
-
 import org.junit.Test;
 
+/***
+ * Test GBCE Share Index
+ * @author MichaelJames
+ *
+ */
 public class GBCETest {
 
 	@Test

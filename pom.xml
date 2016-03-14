@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.jpm.test</groupId>
-	<artifactId>SuperSImpleStocks</artifactId>
+	<artifactId>SuperSimpleStocks</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>SuperSImpleStocks</name>
+	<name>SuperSimpleStocks</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -68,7 +68,7 @@
 							<transformers>
 								<transformer
 									implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>com.jpmorgan.example.assignments.sssmarket.App</mainClass>
+									<mainClass>com.jpm.test.SuperSimpleStocks.Application</mainClass>
 								</transformer>
 							</transformers>
 						</configuration>
