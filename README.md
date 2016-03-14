@@ -21,7 +21,7 @@ This project was coded in Java using Eclipse Mars, with the M2E Maven extension
 * _mvn test_ - to execute the unit tests.
 
 ###Main application
-* _java -jar target/SuperSimpleStocks-0.0.1-SNAPSHOT.jar
+* _java -jar target/SuperSimpleStocks-0.0.1-SNAPSHOT.jar_
 
 ##Classes
 * com.jpm.test.SuperSimpleStocks.Stock - Stock operations
